@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+package.json
+package-lock.json
+
+# Environment variables
+.env
+test
+
+
+# Testing libraries
+coverage/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+.kate-swp
+
+# Yarn
+yarn-error.log
+.pnp/
+.pnp.js
